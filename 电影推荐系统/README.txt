@@ -1,1 +1,2 @@
-根据 python 的 surprise 框架，对 movielens dataset，使用协同过滤 KNNBasline，pearson_baseline 方式 计算相似度，item-based，最终计算电影之间的相似度，推荐出 top10的相似电影。 亦用同样原理根据用户之间歌单的相 似度模 拟出了 音乐歌 单推 荐系统 。
+根据python的surprise框架，对movielens dataset， 使用协同过滤KNNBasline方法，用pearson_baseline方式计算相似度。
+以item-based，最终计算电影之间的相似度，推荐出top10的相似电影。
